@@ -1,0 +1,24 @@
+### Rainfall Patterns in Mexico City
+In Mexico City, rainfall patterns vary significantly throughout the year, impacting water availability in the region. Here is a summary of the rainfall patterns by month:
+
+- **Wet Season**: The rainy period lasts for about 7 months, from April to November, with the most rain falling in July, averaging around 4.9 inches[1][2].
+- **Dry Season**: The dry season spans approximately 5 months, from November to April, with December being the driest month[2][3].
+- **Rainy Days**: July has the most days of rain, with an average of 23.4 days, while December has the fewest wet days[1][2].
+- **Rainfall Variability**: Mexico City can experience extreme variations in monthly rainfall, with some months having no rain at all and others experiencing significant precipitation[2].
+- **Annual Rainfall**: The total annual rainfall in Mexico City ranges from around 550 to 1,000 mm per year, depending on the district[3].
+
+### Impact on Water Availability
+The fluctuating rainfall patterns directly influence water availability in Mexico City. During the wet season, water sources are replenished, contributing to higher water availability. Conversely, the dry season poses challenges as precipitation decreases, potentially leading to water scarcity issues. Managing water resources effectively is crucial to ensure a sustainable water supply throughout the year.
+
+By understanding these rainfall patterns and their effects on water availability, authorities and residents can implement strategies to conserve water during dry periods and utilize resources efficiently to mitigate the impact of fluctuating precipitation levels.
+
+[1] weatherspark.com  
+[2] currentresults.com  
+[3] climatestotravel.com
+
+Citations:
+[1] https://weatherspark.com/y/5674/Average-Weather-in-Mexico-City-Mexico-Year-Round
+[2] https://www.currentresults.com/Weather/Mexico/Places/mexico-city-temperature-rainfall-averages-by-month.php
+[3] https://www.climatestotravel.com/climate/mexico/mexico-city
+[4] https://www.holiday-weather.com/mexico_city/averages/
+[5] https://en.climate-data.org/north-america/mexico/federal-district/mexico-city-1093/

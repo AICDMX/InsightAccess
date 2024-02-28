@@ -1,0 +1,54 @@
+Here's a breakdown of rainfall patterns in Mexico City (CDMX) and the surrounding area, including how it affects water availability:
+
+**Rainfall Patterns**
+
+* **Distinct Seasons:** CDMX experiences a distinct wet and dry season:
+    * **Wet Season (June to October):**   Around 85% of the city's annual rainfall occurs during these months. 
+    * **Dry Season (November to May):** Rainfall is very limited.
+
+* **Monthly Rainfall Averages:**
+    * **January:** 7.6mm
+    * **February:** 5.6mm
+    * **March:** 8.3mm
+    * **April:** 27.0mm
+    * **May:** 56.4mm
+    * **June:** 150.1mm 
+    * **July:**  161.6mm
+    * **August:** 160.6mm
+    * **September:** 139.3mm
+    * **October:** 64.1mm
+    * **November:** 12.3mm
+    * **December:** 5.1mm
+
+* **Spatial Variation:**  Rainfall can be slightly higher in areas southwest of the city center due to the influence of nearby mountains.
+
+**Impact on Water Availability**
+
+* **Water Scarcity:** CDMX faces significant water scarcity challenges despite the concentrated wet season. Factors include:
+    * **Rapid Population Growth:** The city's population has outpaced the development of water infrastructure.
+    * **Leakages:** A significant amount of water is lost due to an aging and leaky distribution system.
+    * **Overextraction of Groundwater:** Aquifers that supply the city are being depleted at an unsustainable rate.
+    * **Pollution:** Water contamination further reduces the amount of usable water.
+
+**Consequences of Rainfall Patterns**
+
+* **Seasonal Water Shortages:** During the long dry season, many areas face severe water shortages, and rationing is common.
+* **Reliance on Distant Water Sources:** The city imports water from distant regions, increasing costs and environmental impact.
+* **Flooding Risk:**  The concentrated nature of rainfall in the wet season can lead to localized flooding.
+
+**Solutions and Adaptations**
+
+CDMX is working on various solutions to address its water crisis:
+
+* **Rainwater Harvesting:** Increased efforts to capture and store rainwater.
+* **Water Reuse:** Treatment and reuse of wastewater.
+* **Leakage Repair:** Modernizing the water distribution system to reduce losses.
+* **Water Conservation Awareness:** Campaigns to promote water-saving practices among residents and businesses.
+
+**Important Websites for More Information**
+
+* **Daily Precipitation Data for the Mexico City Metropolitan Area from 1930 to 2015:**  ([https://www.mdpi.com/2306-5729/7/7/88](https://www.mdpi.com/2306-5729/7/7/88))
+* **Mexico City Weather History:** ([https://www.wunderground.com/history/monthly/mx/mexico-city/MMMX/date/2019-4](https://www.wunderground.com/history/monthly/mx/mexico-city/MMMX/date/2019-4))
+* **Mexico City on Wikipedia:** ([https://en.wikipedia.org/wiki/Mexico_City](https://en.wikipedia.org/wiki/Mexico_City)) 
+
+Let me know if you'd like to explore any specific aspects of this topic further! 
