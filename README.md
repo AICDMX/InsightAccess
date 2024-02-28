@@ -105,3 +105,10 @@
 * **Fugas (Leaks)**
     * Estimated percentage of water loss (40%)
     * Impact on water distribution models 
+
+#QUESTIONS
+When using the questions found in data a location should be included. I feel like that can be left out of most of the questions without effecting it. By preappending to the question should make it more dynamic. 
+
+Example: For CDMX, Mexico City and the surrounding area.
+
+Full Example: For CDMX, Mexico City and the surrounding area. What are rainfall patterns (by month/year) and how do they affect water availability?
