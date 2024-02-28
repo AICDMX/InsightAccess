@@ -1,0 +1,2 @@
+#DESCRIPTION
+This is where time series data should be stored. Pretty much anything with date/time. part of the news could be stored here. like the title and subject and date/time. or how freuqent a thing comes up. lots of options will probably need to divide at later date.
